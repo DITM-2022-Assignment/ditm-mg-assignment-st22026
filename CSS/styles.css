@@ -1,0 +1,11 @@
+.link{
+    color:navy;
+    width:450px;
+    align-items: center;
+    align-content: center;
+    padding:40px;
+    left:234px;
+}
+.link a{
+   left:343px;
+}
