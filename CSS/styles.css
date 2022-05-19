@@ -1,11 +1,37 @@
-.link{
+.links{
     color:navy;
     width:450px;
     align-items: center;
     align-content: center;
     padding:40px;
     left:234px;
+    display: flex;
+    font-size: 40px;
 }
-.link a{
+.links a{
    left:343px;
+   text-align: center;
+   padding: 90px;
+}
+
+.image1{
+    align-items: center;
+    width: 1200px;
+    box-shadow: 0px 0px 1200px 120px rgb(8, 88, 185);
+    margin-left	:115px;
+}
+.quote{
+    font-size:120px;
+    color:rgba(57, 118, 233, 0.862);
+    font-family: verdana;
+    font-weight:bold;
+    text-align: center;
+}
+
+body{
+    background-color: rgb(0, 0, 0);
+}
+
+.links a{
+    color: rgb(189, 0, 0);
 }
