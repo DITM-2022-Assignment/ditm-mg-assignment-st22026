@@ -33,5 +33,39 @@ body{
 }
 
 .links a{
-    color: rgb(189, 0, 0);
+    color: rgb(255, 255, 255);
+}
+
+.video{
+    display: block;
+  margin: auto;
+}
+
+html,
+body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  border: 0
+}
+
+.main1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.section1 {
+  width: 50%;
+  height: 100%;
+  color: rgb(255, 255, 255);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+video {
+  width: 100%;
+  height: 56.25%;
+  margin-top: 21.875%;
+  justify-content: flex-end;
 }
